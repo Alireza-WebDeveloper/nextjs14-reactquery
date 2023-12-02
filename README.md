@@ -1,3 +1,3 @@
-### npm install
-### npm run db
-### npm run dev
+### 1.npm install
+### 2.npm run db
+### 3.npm run dev
